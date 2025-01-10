@@ -34,7 +34,7 @@ Please provide answers to these questions using markdown notation and place them
 
    - [ ] drexel's tux cluster
    - [ ] WSL on Windows
-   - [ x] Orbstack on MacOs
+   - [x] Orbstack on MacOs
    - [ ] VMWare Fusion
    - [ ] Somthing else (put name here)
 
@@ -42,7 +42,7 @@ Please provide answers to these questions using markdown notation and place them
 2. I have installed my virtual machine, tested it, feel comfortable using it, and validated that the required software is installed:
 
 
-   - [x ] YES
+   - [x] YES
    - [ ] N/A - I plan to use tux
    - [ ] NO - Not Yet
 
@@ -54,9 +54,9 @@ Please provide answers to these questions using markdown notation and place them
 
 
 4. Briefly describe what you want to get out of this class.
-The primary target is to get a good grade and learn something I can use during my Co-op. Reading the syllabus, I think I will be gaining a deeper understanding of the System’s programming- basic and advanced concepts. This might help me explore basics of Cloud computing as an extension and maybe build a project on that.
+   - The primary target is to get a good grade and learn something I can use during my Co-op. Reading the syllabus, I think I will be gaining a deeper understanding of the System’s programming- basic and advanced concepts. This might help me explore basics of Cloud computing as an extension and maybe build a project on that.
 
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
-I am worried about deadlines and keeping up with all the CS courses, I'm taking this quarter as a part of my 19 credits.
+   - I am worried about deadlines and keeping up with all the CS courses, I'm taking this quarter as a part of my 19 credits.
 
