@@ -17,14 +17,7 @@ Citation: Taken from Geeks for Geeks. Fgets() is a better choice as it reads a l
 
 - One topic you should have found information on is "redirection". Please provide at least 3 redirection examples that we should implement in our custom shell, and explain what challenges we might have implementing them.
 
-    > **Answer**: ls > output.txt
-sort < input.txt
-echo "New line" >> output.txt
-
-Challenges
-File handling, and overwrite protection.
-We need to open the file in read mode and redirect STDIN before executing the command.
-We must open the file in append mode and handle file permissions correctly to prevent data loss.
+    > **Answer**: 1. ls > output.txt 2. sort < input.txt 3. echo "New line" >> output.txt Challenges:  1.File handling, and overwrite protection. 2. We need to open the file in read mode and redirect STDIN before executing the command. 3. We must open the file in append mode and handle file permissions correctly to prevent data loss.
 
 
 - You should have also learned about "pipes". Redirection and piping both involve controlling input and output in the shell, but they serve different purposes. Explain the key differences between redirection and piping.
