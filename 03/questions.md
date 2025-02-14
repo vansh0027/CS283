@@ -1,9 +1,7 @@
 1. In this assignment I suggested you use `fgets()` to get user input in the main while loop. Why is `fgets()` a good choice for this application?
 
     > **Answer**:
-Citation: Taken from Geeks for Geeks.
-
-Fgets() is a better choice as it reads a line of input, and prevents buffer overflow. As it limits the number of characters it is reading However, scanf()  doesn’t allow spaces within the input being read and cannot handle empty lines. Moreover, fgets() can also detect the end of the file.
+Citation: Taken from Geeks for Geeks. Fgets() is a better choice as it reads a line of input, and prevents buffer overflow. As it limits the number of characters it is reading However, scanf()  doesn’t allow spaces within the input being read and cannot handle empty lines. Moreover, fgets() can also detect the end of the file.
 
 
 2. You needed to use `malloc()` to allocte memory for `cmd_buff` in `dsh_cli.c`. Can you explain why you needed to do that, instead of allocating a fixed-size array?
